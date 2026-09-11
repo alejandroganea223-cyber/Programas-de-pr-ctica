@@ -10,4 +10,5 @@ Esté **repositorio** es más como una colección de programas que voy subiendo 
 Principalmente lo usaré como cabe señalar lo que pone en la descripción pero estaré experimentando con algunos lenguajes por ejemplo:
 + Mezclar Python con Java
 + Mezclar Python, C++ y Arduino
+  
 Y más, y si no lo mencioné estaré aplicando lo aprendido en ciertas areas para experimentar con lenguajes de programación
