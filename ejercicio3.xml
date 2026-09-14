@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<libreria>
+    <libro>
+        <código_isbn>834347838</código_isbn>
+        <título>Caperucita Roja</título>
+        <nivel_profundidad>Profundidad media</nivel_profundidad>
+        <autores>Jose Maruño</autores>
+        <editorial>JSeditorial</editorial>
+        <fecha_publicacion>18-06-2008</fecha_publicacion>
+        <pagina_web_libro>milibro1.es</pagina_web_libro>
+        <precio>15,75</precio>
+    </libro>
+    <libro>
+        <código_isbn>91292312</código_isbn>
+        <título>La cantonsita</título>
+        <nivel_profundidad>Profundidad Baja</nivel_profundidad>
+        <autores>Maria José Antonio</autores>
+        <editorial>JSeditorial</editorial>
+        <fecha_publicacion>19-08-2015</fecha_publicacion>
+        <pagina_web_libro>milibro2.es</pagina_web_libro>
+        <precio>15,75</precio>
+    </libro>
+    <libro>
+        <código_isbn>10239943</código_isbn>
+        <título></título>
+        <nivel_profundidad></nivel_profundidad>
+        <autores></autores>
+        <editorial></editorial>
+        <fecha_publicacion></fecha_publicacion>
+        <pagina_web_libro></pagina_web_libro>
+        <precio></precio>
+    </libro>
+</libreria>
+<libreria>
+    <libro>
+        <código_isbn>29329382</código_isbn>
+        <título></título>
+        <nivel_profundidad></nivel_profundidad>
+        <autores></autores>
+        <editorial></editorial>
+        <fecha_publicacion></fecha_publicacion>
+        <pagina_web_libro></pagina_web_libro>
+        <precio></precio>
+    </libro>
+    <libro>
+        <código_isbn>10239101</código_isbn>
+        <título></título>
+        <nivel_profundidad></nivel_profundidad>
+        <autores></autores>
+        <editorial></editorial>
+        <fecha_publicacion></fecha_publicacion>
+        <pagina_web_libro></pagina_web_libro>
+        <precio></precio>
+    </libro>
+    <libro>
+        <código_isbn>17238123</código_isbn>
+        <título></título>
+        <nivel_profundidad></nivel_profundidad>
+        <autores></autores>
+        <editorial></editorial>
+        <fecha_publicacion></fecha_publicacion>
+        <pagina_web_libro></pagina_web_libro>
+        <precio></precio>
+    </libro>
+</libreria>
