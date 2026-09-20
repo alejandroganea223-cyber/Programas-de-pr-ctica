@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ejercicio17 {
+public class relojReal {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int horas;
