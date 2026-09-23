@@ -1,5 +1,5 @@
 # Programas-de-práctica
-Esté **repositorio** es más como una colección de programas que voy subiendo para aprender algunas, cosas sobre librerías de ciertos lenguajes, conceptos básicos de programación, etc.
+Este **repositorio** es más como una colección de programas que voy subiendo para aprender algunas, cosas sobre librerías de ciertos lenguajes, conceptos básicos de programación, etc.
 
 ## Lenguajes
 + Principalmente usaré Python y Java pero me puedo animar a otros lenguajes como C++ pero lo tendré que ír mirando.
